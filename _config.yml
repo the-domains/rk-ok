@@ -1,0 +1,28 @@
+name: RK-OK
+favicon: null
+layout_spectrum: 0.7705732223112136
+typography_spectrum: 0.6602073211688548
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0864778021350503
+  lightness: 0.2788607180118561
+  saturation: 0.5300279615912586
+  rhythmicContrast: 0.02426313329488039
+purpose: []
